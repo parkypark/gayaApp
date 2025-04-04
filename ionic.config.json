@@ -1,0 +1,7 @@
+{
+  "name": "gayaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
